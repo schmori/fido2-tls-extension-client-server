@@ -67,6 +67,11 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/src/main/resources/fido.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.14.0</version>
+        </dependency>
  <!--       <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcpkix-jdk18on</artifactId>

@@ -7,7 +7,7 @@ import javax.security.auth.callback.CallbackHandler;
 public class VARIABLES {
 
     public final static int TLS_PORT = 4321;
-    public final static String FIDO = "1";
+    public final static String FIDO = "0";
     public final static String HOSTNAME = "localhost";
     public final static String PIN = "1234";
     public final static int CTAP2_PORT = 5555;
